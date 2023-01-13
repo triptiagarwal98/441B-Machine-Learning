@@ -1,1 +1,1 @@
-# 441B-Machine-Learning
+# Machine Learning Quick Projects
